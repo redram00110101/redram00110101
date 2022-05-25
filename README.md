@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @redram00110101
 - 👀 I’m interested in learning code
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on heck if I know🤷
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me on my Twitter @RamosRedington
 
 <!---
